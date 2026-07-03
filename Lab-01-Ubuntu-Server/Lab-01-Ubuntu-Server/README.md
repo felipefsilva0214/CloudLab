@@ -31,6 +31,8 @@ Criar um servidor Linux para servir como base do laboratório de Cloud Computing
 * Instalação do OpenSSH Server.
 * Correção do layout do teclado.
 * Primeiro acesso ao sistema.
+  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/61909f34-ac66-48d7-98c1-3b1bbb89a7c8" />
+
 
 ## Validação
 
@@ -40,6 +42,7 @@ Após a instalação, foi possível:
 * Realizar login com o usuário criado.
 * Acessar o terminal Linux.
 * Confirmar o funcionamento do sistema.
+  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/a64a5800-f824-49b0-b508-496cb193f18e" />
 
 ## Aprendizados
 
